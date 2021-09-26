@@ -1,0 +1,17 @@
+﻿  main.cpp
+  _Board.cpp
+C:\Users\Admin\Downloads\caro_hcmus-master\Source\1712272_LastTerm\1712272_LastTerm\_Board.cpp(226,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Downloads\caro_hcmus-master\Source\1712272_LastTerm\1712272_LastTerm\_Board.cpp(283,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Downloads\caro_hcmus-master\Source\1712272_LastTerm\1712272_LastTerm\_Board.cpp(345,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Downloads\caro_hcmus-master\Source\1712272_LastTerm\1712272_LastTerm\_Board.cpp(406,22): warning C4018: '<': signed/unsigned mismatch
+  _Common.cpp
+  _Play.cpp
+C:\Users\Admin\Downloads\caro_hcmus-master\Source\1712272_LastTerm\1712272_LastTerm\_Play.cpp(514,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\Admin\Downloads\caro_hcmus-master\Source\1712272_LastTerm\1712272_LastTerm\_Play.cpp(554,6): warning C4101: 'i': unreferenced local variable
+  _Point.cpp
+  _Game.cpp
+  Generating Code...
+C:\Users\Admin\Downloads\caro_hcmus-master\Source\1712272_LastTerm\1712272_LastTerm\_Play.cpp(1470): warning C4715: 'PlayerVsPlayer': not all control paths return a value
+C:\Users\Admin\Downloads\caro_hcmus-master\Source\1712272_LastTerm\1712272_LastTerm\_Play.cpp(1162): warning C4715: 'PlayerVsCom': not all control paths return a value
+C:\Users\Admin\Downloads\caro_hcmus-master\Source\1712272_LastTerm\1712272_LastTerm\_Play.cpp(1324): warning C4715: 'PlayerVsCom2': not all control paths return a value
+  H.vcxproj -> E:\Nam1-hk3\OOP\Đồ án\Project2\Debug\H.exe
